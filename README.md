@@ -1,13 +1,17 @@
-QuadraCerta 🏟️⚽
-Agenda de quadras esportivas e jogos abertos da região.
-📖 Sobre o Projeto
-O QuadraCerta é uma plataforma web desenvolvida para reunir, em um único lugar, as quadras esportivas da região, seus horários disponíveis e os jogos e eventos que estão acontecendo.
-A ideia nasceu para resolver um problema comum no dia a dia de quem pratica esportes: a dificuldade de encontrar uma quadra livre ou jogadores para completar um time, já que essas informações costumam ficar espalhadas em diversos grupos de mensagens e redes sociais. Com o QuadraCerta, os usuários podem pesquisar espaços por bairro, esporte e dia, visualizar os detalhes de cada local e divulgar partidas abertas para a comunidade participar.
-✨ Funcionalidades
-Autenticação de Usuários: Sistema completo de cadastro, login, logout e gerenciamento de perfil com rotas protegidas.
-Gestão de Quadras: Cadastro, edição e exclusão de quadras, incluindo endereço, modalidade esportiva, fotos e horários de funcionamento.
-Agenda de Horários: Consulta organizada dos horários disponíveis e eventos agendados para cada quadra.
-Jogos Abertos: Criação e divulgação de partidas com definição de data, local e número de vagas disponíveis.
-Confirmação de Presença: Funcionalidade para que os usuários confirmem participação nos jogos abertos.
-Filtros de Busca: Pesquisa otimizada por bairro, esporte, dia e horário.
-Layout Responsivo: Interface adaptada para oferecer uma boa experiência tanto no computador quanto no celular.
+# QuadraCerta 🏟️⚽
+
+**Agenda de quadras esportivas e jogos abertos da região.**
+
+O **QuadraCerta** é uma plataforma web que centraliza em um único lugar as quadras esportivas disponíveis na região, suas agendas de horários e as partidas abertas para a comunidade. O sistema resolve a dificuldade de encontrar espaços livres ou jogadores para completar times — informações que costumam ficar dispersas em grupos de mensagens e redes sociais[span_0](start_span)[span_0](end_span).
+
+---
+
+## ✨ Funcionalidades
+
+* **Autenticação e Perfil:** Cadastro de usuários, login, logout e proteção de rotas.
+* **Gestão de Quadras (CRUD):** Cadastro, edição e exclusão de quadras contendo endereço, modalidade esportiva, fotos e horários de funcionamento.
+* **Agenda de Horários:** Visualização organizada dos horários e eventos programados para cada quadra.
+* **Organização de Partidas:** Criação de jogos abertos com definição de data, local e número de vagas disponíveis.
+* **Confirmação de Presença:** Sistema para usuários confirmarem participação nos jogos abertos.
+* **Busca Avançada:** Filtros por bairro, esporte, dia e horário.
+* **Design Responsivo:** Interface adaptada para acesso tanto em computadores quanto em dispositivos móveis[span_1](start_span)[span_1](end_span)[span_2](start_span)[span_2](end_span).
